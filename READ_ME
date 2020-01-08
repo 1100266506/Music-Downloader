@@ -1,0 +1,12 @@
+author Benjamin Ahn
+version 1.0
+
+The following package includes execute.java, MusicDownload.py, and song_list.txt. 
+These files together are a javaFX application that takes song search inputs and downloads youtube
+songs of those searches. The application stores youtube song downloads as mp3 files in a folder
+that can be modified to the user. 
+
+Must use from the command line
+First, change the path of the harddrive by typing 
+	"export PATH=$PATH:/home/benjamin/CS/java_project"
+Then compile and run execute.java file to launch the javaFX application
